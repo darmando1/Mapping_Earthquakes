@@ -71,4 +71,3 @@ L.geoJSON(data, {
         style: styleInfo
         }).addTo(map);
     });
-
